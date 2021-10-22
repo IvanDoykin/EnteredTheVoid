@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6820776e286ee8a478e7b34a386ad3df, type: 3}
+  m_Name: Root Start
+  m_EditorClassIdentifier: 
+  text: Hello, human.
+  state: 0
+  eventNames:
+  - NextWithoutNPC
+  nextSamples:
+  - {fileID: 11400000, guid: 66de93956ce1c99448a361dfa3632bae, type: 2}
+  dialogueImage: {fileID: 280545532888839469, guid: fb92d8262f6b7184c9ee1aa6e7aa7b3a, type: 3}
+  dialogueTitle: Grim Reaper
